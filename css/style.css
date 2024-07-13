@@ -1,0 +1,40 @@
+.blog_post{
+    background-color:white;
+    font-family:arial;
+    width:200px;
+    padding:5px;
+    margin:1px auto;
+    border:2px solid #ccc;
+    border-radius: 10px;
+
+    display: inline-block;
+}
+
+.parent{
+    margin:auto;
+    width:fit-content;
+    
+}
+
+.blog_post img{
+
+    
+    width: 100%;
+}
+
+.blog_post h1{
+    font-size:15px;
+}
+.blog_post h1:hover{
+    color:red;
+    text-decoration: underline;
+    
+}
+.blog_post a{
+    color:orangered;
+    text-decoration: none;
+    font-weight: 600;
+    font-size:20px;
+}
+
+
